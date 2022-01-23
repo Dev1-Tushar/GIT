@@ -1,3 +1,4 @@
 f.log
 *.log
 /logs
+/hello
